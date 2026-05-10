@@ -1,0 +1,14 @@
+Product Price Analysis Report
+
+Analyzed Products:
+- Whole Milk 2L
+- White Bread 800g
+- Unsalted Butter 250g
+
+Largest price change:
+- Unsalted Butter 250g with +25.13%
+
+Possible interpretation:
+The significant increase in the price of Unsalted Butter 250g may be due to inflation, increased production costs, or disruptions in the dairy supply chain.
+
+Prepared for the assignment task using Selenium and openpyxl.
